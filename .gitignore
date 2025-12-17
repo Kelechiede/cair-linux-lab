@@ -1,0 +1,14 @@
+# Secrets / local env
+.pgpass
+.env
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS/Editor
+.DS_Store
+.vscode/
